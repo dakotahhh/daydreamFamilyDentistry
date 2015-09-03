@@ -1,0 +1,52 @@
+a{
+	text-decoration: none;
+}
+
+header{
+	vertical-align: bottom;
+	padding-bottom: 100px;
+}
+
+header img{
+	float: left;
+}
+
+nav{
+	float: right;
+}
+
+nav ul li{
+	padding-left: 10px;
+	padding-right: 10px;
+	list-style-type: none;
+	display: inline;
+}
+
+#address{
+	display: block;
+	width: 375px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#imageAndAddress{
+	display: inline-block;	
+}
+
+#mainBody{
+	width: 800px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.dentistCartoon{
+	width: 100px;
+	height: 100px;
+	align: left;
+}
+
+.logo{
+	width:375px;
+	height:100px;
+}
